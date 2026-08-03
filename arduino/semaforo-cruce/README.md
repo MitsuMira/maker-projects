@@ -68,7 +68,7 @@ A second press during an active crossing is ignored until the next cycle.
 
 ## Code
 
-Sketch: [`semaforo_cruce_v3/semaforo_cruce_v3.ino`](semaforo_cruce_v3/semaforo_cruce_v3.ino)
+Sketch: [`semaforo-cruce.ino`](semaforo-cruce.ino)
 
 The code uses:
 - `enum` state machine — no `delay()` anywhere
