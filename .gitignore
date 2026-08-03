@@ -1,0 +1,25 @@
+# Arduino IDE build artifacts
+build/
+*.ino.elf
+*.ino.hex
+*.ino.with_bootloader.hex
+*.ino.map
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# Arduino IDE 2.x cache
+.arduino15/
+
+# Temporary files
+*.tmp
+*.bak
