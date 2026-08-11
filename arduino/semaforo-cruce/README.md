@@ -5,7 +5,9 @@ and push buttons on a breadboard. Pedestrians can request a crossing at any time
 hardware interrupts — both pedestrian lights go green simultaneously while all cars stop.
 
 **Platform:** Arduino Uno (Elegoo Uno R3 compatible)
-**Difficulty:** Beginner+
+**Difficulty:** Intermediate
+**Build time:** 2-3 hours
+**Material cost:** ~€12-25
 **License:** [CC BY-NC-SA 4.0](../../LICENSE)
 
 ---
@@ -63,6 +65,13 @@ A second press during an active crossing is ignored until the next cycle.
 
 > **Buttons:** use `INPUT_PULLUP` — no external resistor needed.
 > Connect one terminal to pin 2 or 3, the other to GND.
+
+---
+
+## 3D printed housing
+
+A printable housing, pole, and base for the traffic light is available on Printables:
+[Crosswalk Traffic Light — Arduino Housing, Pole & Base](https://www.printables.com/model/1807397-crosswalk-traffic-light-arduino-housing-pole-base)
 
 ---
 

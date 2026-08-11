@@ -9,9 +9,9 @@ Built in Barcelona by [MitsuMira](https://mitsumira.com) — digital fabrication
 
 ## Arduino
 
-| Project | Description | Status |
-|---|---|---|
-| [Semáforo de cruce](arduino/semaforo-cruce/) | 4-way traffic light with hardware interrupts and pedestrian crossing | ✅ Complete |
+| Project | Description |
+|---|---|
+| [Crosswalk Traffic Light](arduino/semaforo-cruce/) | 4-way traffic light with hardware interrupts and pedestrian crossing |
 
 ---
 
