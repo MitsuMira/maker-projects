@@ -77,7 +77,7 @@ A printable housing, pole, and base for the traffic light is available on Printa
 
 ## Code
 
-Sketch: [`semaforo_cruce_v3/semaforo_cruce_v3.ino`](semaforo_cruce_v3/semaforo_cruce_v3.ino)
+Sketch: [`semaforo-cruce.ino`](semaforo-cruce.ino)
 
 The code uses:
 - `enum` state machine — no `delay()` anywhere
