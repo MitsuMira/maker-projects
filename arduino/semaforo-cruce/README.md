@@ -90,8 +90,7 @@ The code uses:
 ## Full guide
 
 Wiring diagram, state tables, and build tips:
-[mitsumira.com/proyectos/semaforo-cruce](https://mitsumira.com/proyectos/semaforo-cruce)
-*(coming soon)*
+[mitsumira.com/proyectos/semaforo](https://mitsumira.com/proyectos/semaforo/)
 
 ---
 
